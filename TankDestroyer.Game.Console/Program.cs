@@ -22,8 +22,8 @@ class Program
             ClearConsole();
 
             var config = LoadConfig();
-            var botFolder = ResolvePath(config.BotFolder, "..\\Bots");
-            var mapFolder = ResolvePath(config.MapFolder, "..\\Maps");
+            var botFolder = ResolvePath("..\\Build\\Bots", "..\\Bots");
+            var mapFolder = ResolvePath("..\\Maps", "..\\Maps");
 
             if (!Directory.Exists(botFolder))
             {
@@ -76,10 +76,19 @@ class Program
 
             while (!runner.Finished)
             {
-                runner.DoTurn();
-                var lastTurn = runner.GetTurns().Last();
-                renderer.Render(lastTurn, selectedMap, playerColors, playerLabels);
-                Thread.Sleep(1000);
+                var turnsToPlay = AskTurnsToPlay();
+                if (turnsToPlay <= 0)
+                {
+                    break;
+                }
+
+                for (var turnIndex = 0; turnIndex < turnsToPlay && !runner.Finished; turnIndex++)
+                {
+                    runner.DoTurn();
+                    var lastTurn = runner.GetTurns().Last();
+                    renderer.Render(lastTurn, selectedMap, playerColors, playerLabels);
+                    Thread.Sleep(1000);
+                }
             }
 
             Console.WriteLine("Game Finished!");
@@ -106,9 +115,11 @@ class Program
     private static string ResolvePath(string? configuredPath, string fallback)
     {
         var value = string.IsNullOrWhiteSpace(configuredPath) ? fallback : configuredPath;
-        return Path.IsPathRooted(value)
+        value = value.Replace('\\', Path.DirectorySeparatorChar);
+        var path = Path.IsPathRooted(value)
             ? value
             : Path.GetFullPath(value);
+        return path;
     }
 
     private static World SelectMap(IReadOnlyList<World> maps)
@@ -183,6 +194,37 @@ class Program
             }
 
             return selectedIndexes.Select(index => botTypes[index]).ToList();
+        }
+    }
+
+    private static int AskTurnsToPlay()
+    {
+        while (true)
+        {
+            Console.WriteLine();
+            Console.Write("Play one turn, multiple turns, or all remaining? (Enter = 1, number, A = all, Q = quit): ");
+            var input = Console.ReadLine();
+            if (string.IsNullOrWhiteSpace(input))
+            {
+                return 1;
+            }
+
+            if (string.Equals(input, "a", StringComparison.OrdinalIgnoreCase))
+            {
+                return int.MaxValue;
+            }
+
+            if (string.Equals(input, "q", StringComparison.OrdinalIgnoreCase))
+            {
+                return 0;
+            }
+
+            if (int.TryParse(input, out var turns) && turns > 0)
+            {
+                return turns;
+            }
+
+            Console.WriteLine("Invalid selection. Enter a positive number, A, Q, or press Enter for one turn.");
         }
     }
 
