@@ -1,7 +1,7 @@
 <Solution>
   <Folder Name="/Bots/">
-    <Project Path="Bots/Example.Bot/Example.Bot.csproj" />
     <Project Path="Bots/HDJO.Bot/HDJO.Bot.csproj" />
+    <Project Path="Bots/Schwarzenegger.Bot/Schwarzenegger.Bot.csproj" />
   </Folder>
   <Folder Name="/Game/">
     <Project Path="Game/TankDestroyer.csproj">
