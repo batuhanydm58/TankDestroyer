@@ -14,6 +14,7 @@ public class PlayerTurnContext : ITurnContext
         Tank = game.Tanks.Single(c => c.OwnerId == player.Id);
         _game = game;
         _turnActions = turnActions;
+        World = game.World;
     }
 
     public IWorld World { get; set; }
