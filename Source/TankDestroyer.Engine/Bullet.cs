@@ -1,15 +1,16 @@
-﻿using TankDestroyer.API;
+﻿using System.Threading;
+using TankDestroyer.API;
 
 namespace TankDestroyer.Engine;
 
 public class Bullet : IBullet
 {
-    private static uint _globalId = 0;
+    private static int _globalId = 0;
 
     public Bullet(int ownerId)
     {
         OwnerId = ownerId;
-        Id = _globalId++;
+        Id = (uint)Interlocked.Increment(ref _globalId);
     }
 
     private Bullet()

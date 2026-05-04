@@ -1,0 +1,43 @@
+Mode,MapName,BotName,Creator,Matches,Wins,TimeoutWins,Draws,Losses,WinRate,AveragePlacement,AverageEndHealth,DamageDealt,DamageTaken,DamageDelta
+Duel,Four Corners,OlivierBot,The Ultimate Champion,144,72,13,59,0,0.5000,1.208,100.000,8175,0,8175
+Duel,Four Corners,SchwarzeneggerBot,Batuhan,144,47,0,97,0,0.3264,1.340,75.521,4700,3525,1175
+Duel,Four Corners,BlitzKriegBot,Batuhan,144,33,0,87,24,0.2292,1.472,70.833,5100,4200,900
+Duel,Four Corners,KingArthur,Batuhan,144,24,0,98,22,0.1667,1.486,77.604,2400,3225,-825
+Duel,Four Corners,A Super Robot,Menno,144,7,11,31,95,0.0486,1.764,30.382,6125,10025,-3900
+Duel,Four Corners,Lightning McQueen,Batuhan,144,0,0,113,31,0.0000,1.604,78.472,525,3100,-2575
+Duel,Four Corners,BunnyBot,Batuhan,144,0,0,109,35,0.0000,1.625,79.514,0,2950,-2950
+Duel,Het kanaal,SchwarzeneggerBot,Batuhan,144,24,0,120,0,0.1667,1.417,87.500,1200,1800,-600
+Duel,Het kanaal,KingArthur,Batuhan,144,17,0,127,0,0.1181,1.451,83.160,1200,2425,-1225
+Duel,Het kanaal,OlivierBot,The Ultimate Champion,144,10,0,124,10,0.0694,1.486,93.750,0,900,-900
+Duel,Het kanaal,Lightning McQueen,Batuhan,144,5,0,139,0,0.0347,1.465,97.222,900,400,500
+Duel,Het kanaal,BlitzKriegBot,Batuhan,144,0,20,99,25,0.0000,1.563,76.389,1000,3400,-2400
+Duel,Het kanaal,A Super Robot,Menno,144,0,0,113,31,0.0000,1.618,78.472,900,3100,-2200
+Duel,Het kanaal,BunnyBot,Batuhan,144,0,0,134,10,0.0000,1.500,94.792,0,750,-750
+Duel,Oasis Cross,SchwarzeneggerBot,Batuhan,144,55,12,77,0,0.3819,1.167,73.438,6400,3825,2575
+Duel,Oasis Cross,KingArthur,Batuhan,144,37,0,88,19,0.2569,1.465,79.340,5225,2975,2250
+Duel,Oasis Cross,A Super Robot,Menno,144,31,12,30,71,0.2153,1.618,35.938,6025,9225,-3200
+Duel,Oasis Cross,Lightning McQueen,Batuhan,144,29,12,98,5,0.2014,1.382,94.965,4175,725,3450
+Duel,Oasis Cross,BlitzKriegBot,Batuhan,144,15,8,67,54,0.1042,1.701,51.910,5600,6925,-1325
+Duel,Oasis Cross,OlivierBot,The Ultimate Champion,144,0,17,125,2,0.0000,1.417,98.611,1425,200,1225
+Duel,Oasis Cross,BunnyBot,Batuhan,144,0,0,67,77,0.0000,1.750,57.118,1200,6175,-4975
+Duel,River Bend,BlitzKriegBot,Batuhan,144,24,0,120,0,0.1667,1.417,79.167,3600,3000,600
+Duel,River Bend,OlivierBot,The Ultimate Champion,144,0,0,144,0,0.0000,1.500,91.667,1200,1200,0
+Duel,River Bend,KingArthur,Batuhan,144,0,0,144,0,0.0000,1.500,100.000,0,0,0
+Duel,River Bend,Lightning McQueen,Batuhan,144,0,0,144,0,0.0000,1.500,100.000,0,0,0
+Duel,River Bend,SchwarzeneggerBot,Batuhan,144,0,0,144,0,0.0000,1.500,100.000,0,0,0
+Duel,River Bend,A Super Robot,Menno,144,0,0,120,24,0.0000,1.583,83.333,1800,2400,-600
+Duel,River Bend,BunnyBot,Batuhan,144,0,0,144,0,0.0000,1.500,100.000,0,0,0
+Duel,The void,KingArthur,Batuhan,144,33,0,111,0,0.2292,1.382,68.229,2800,4575,-1775
+Duel,The void,Lightning McQueen,Batuhan,144,32,0,112,0,0.2222,1.389,69.271,2900,4425,-1525
+Duel,The void,SchwarzeneggerBot,Batuhan,144,25,0,119,0,0.1736,1.410,70.313,2500,4275,-1775
+Duel,The void,A Super Robot,Menno,144,25,0,111,8,0.1736,1.444,64.757,2700,5075,-2375
+Duel,The void,BunnyBot,Batuhan,144,24,0,109,11,0.1667,1.458,63.194,2475,5300,-2825
+Duel,The void,OlivierBot,The Ultimate Champion,144,0,0,144,0,0.0000,1.500,2.083,7200,14100,-6900
+Duel,The void,BlitzKriegBot,Batuhan,144,0,0,24,120,0.0000,1.917,2.083,5700,14100,-8400
+Duel,Twin Ridges,KingArthur,Batuhan,144,12,0,120,12,0.0833,1.500,85.417,1800,2100,-300
+Duel,Twin Ridges,A Super Robot,Menno,144,12,0,120,12,0.0833,1.500,87.500,2100,1800,300
+Duel,Twin Ridges,OlivierBot,The Ultimate Champion,144,0,0,144,0,0.0000,1.500,100.000,0,0,0
+Duel,Twin Ridges,BlitzKriegBot,Batuhan,144,0,0,144,0,0.0000,1.500,100.000,0,0,0
+Duel,Twin Ridges,Lightning McQueen,Batuhan,144,0,0,144,0,0.0000,1.500,100.000,0,0,0
+Duel,Twin Ridges,SchwarzeneggerBot,Batuhan,144,0,0,144,0,0.0000,1.500,100.000,0,0,0
+Duel,Twin Ridges,BunnyBot,Batuhan,144,0,0,144,0,0.0000,1.500,100.000,0,0,0

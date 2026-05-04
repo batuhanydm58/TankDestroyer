@@ -1,7 +1,22 @@
 <Solution>
   <Folder Name="/Bots/">
-    <Project Path="Bots/HDJO.Bot/HDJO.Bot.csproj" />
+    <Project Path="Bots/LightningMcQueen.Bot/LightningMcQueen.Bot.csproj" />
     <Project Path="Bots/Schwarzenegger.Bot/Schwarzenegger.Bot.csproj" />
+  </Folder>
+  <Folder Name="/Bots/BlitzKrieg.Bot   /">
+    <Project Path="Bots/BlitzKrieg.Bot   /BlitzKrieg.Bot.csproj" />
+  </Folder>
+  <Folder Name="/Bots/KLingArthur.Bot /">
+    <Project Path="Bots/KLingArthur.Bot /KingArthur.Bot.csproj" />
+  </Folder>
+  <Folder Name="/Bots/NijntjeKonijntje.Bot /">
+    <Project Path="Bots/NijntjeKonijntje.Bot /Bunny.Bot.csproj" />
+  </Folder>
+  <Folder Name="/Bots/Olivier.Bot /">
+    <Project Path="Bots/Olivier.Bot /Olivier.Bot.csproj" />
+  </Folder>
+  <Folder Name="/Bots/ProMenno.Bot /">
+    <Project Path="Bots/ProMenno.Bot /ProMenno.Bot.csproj" />
   </Folder>
   <Folder Name="/Game/">
     <Project Path="Game/TankDestroyer.csproj">

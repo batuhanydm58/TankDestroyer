@@ -1,0 +1,253 @@
+BotName,Opponent,MapName,Matches,Wins,TimeoutWins,Draws,Losses,WinRate,EffectiveWinRate,DamageDealt,DamageTaken,DamageDelta
+A Super Robot,BlitzKriegBot,Four Corners,24,0,0,0,24,0.0000,0.0000,1800,2400,-600
+A Super Robot,BlitzKriegBot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+A Super Robot,BlitzKriegBot,Oasis Cross,24,16,0,8,0,0.6667,0.7167,1600,1000,600
+A Super Robot,BlitzKriegBot,River Bend,24,0,0,0,24,0.0000,0.0000,1800,2400,-600
+A Super Robot,BlitzKriegBot,The void,24,24,0,0,0,1.0000,1.0000,1200,1800,-600
+A Super Robot,BlitzKriegBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+A Super Robot,BunnyBot,Four Corners,24,0,11,13,0,0.0000,0.3563,550,0,550
+A Super Robot,BunnyBot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+A Super Robot,BunnyBot,Oasis Cross,24,12,12,0,0,0.5000,0.8000,2100,900,1200
+A Super Robot,BunnyBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+A Super Robot,BunnyBot,The void,24,1,0,23,0,0.0417,0.1854,0,75,-75
+A Super Robot,BunnyBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+A Super Robot,KingArthur,Four Corners,24,0,0,0,24,0.0000,0.0000,1350,2400,-1050
+A Super Robot,KingArthur,Het kanaal,24,0,0,22,2,0.0000,0.1375,0,200,-200
+A Super Robot,KingArthur,Oasis Cross,24,0,0,0,24,0.0000,0.0000,0,2400,-2400
+A Super Robot,KingArthur,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+A Super Robot,KingArthur,The void,24,0,0,19,5,0.0000,0.1188,150,500,-350
+A Super Robot,KingArthur,Twin Ridges,24,12,0,0,12,0.5000,0.5000,2100,1800,300
+A Super Robot,Lightning McQueen,Four Corners,24,7,0,17,0,0.2917,0.3979,700,525,175
+A Super Robot,Lightning McQueen,Het kanaal,24,0,0,19,5,0.0000,0.1188,0,500,-500
+A Super Robot,Lightning McQueen,Oasis Cross,24,1,0,0,23,0.0417,0.0417,325,2375,-2050
+A Super Robot,Lightning McQueen,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+A Super Robot,Lightning McQueen,The void,24,0,0,21,3,0.0000,0.1313,150,300,-150
+A Super Robot,Lightning McQueen,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+A Super Robot,OlivierBot,Four Corners,24,0,0,0,24,0.0000,0.0000,0,2400,-2400
+A Super Robot,OlivierBot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+A Super Robot,OlivierBot,Oasis Cross,24,2,0,22,0,0.0833,0.2208,200,150,50
+A Super Robot,OlivierBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+A Super Robot,OlivierBot,The void,24,0,0,24,0,0.0000,0.1500,1200,2400,-1200
+A Super Robot,OlivierBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+A Super Robot,SchwarzeneggerBot,Four Corners,24,0,0,1,23,0.0000,0.0063,1725,2300,-575
+A Super Robot,SchwarzeneggerBot,Het kanaal,24,0,0,0,24,0.0000,0.0000,900,2400,-1500
+A Super Robot,SchwarzeneggerBot,Oasis Cross,24,0,0,0,24,0.0000,0.0000,1800,2400,-600
+A Super Robot,SchwarzeneggerBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+A Super Robot,SchwarzeneggerBot,The void,24,0,0,24,0,0.0000,0.1500,0,0,0
+A Super Robot,SchwarzeneggerBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+BlitzKriegBot,A Super Robot,Four Corners,24,24,0,0,0,1.0000,1.0000,2400,1800,600
+BlitzKriegBot,A Super Robot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+BlitzKriegBot,A Super Robot,Oasis Cross,24,0,0,8,16,0.0000,0.0500,1000,1600,-600
+BlitzKriegBot,A Super Robot,River Bend,24,24,0,0,0,1.0000,1.0000,2400,1800,600
+BlitzKriegBot,A Super Robot,The void,24,0,0,0,24,0.0000,0.0000,900,2400,-1500
+BlitzKriegBot,A Super Robot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+BlitzKriegBot,BunnyBot,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+BlitzKriegBot,BunnyBot,Het kanaal,24,0,10,14,0,0.0000,0.3375,0,0,0
+BlitzKriegBot,BunnyBot,Oasis Cross,24,4,8,12,0,0.1667,0.4417,1000,300,700
+BlitzKriegBot,BunnyBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+BlitzKriegBot,BunnyBot,The void,24,0,0,0,24,0.0000,0.0000,900,2400,-1500
+BlitzKriegBot,BunnyBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+BlitzKriegBot,KingArthur,Four Corners,24,9,0,15,0,0.3750,0.4688,900,0,900
+BlitzKriegBot,KingArthur,Het kanaal,24,0,0,9,15,0.0000,0.0563,1000,2400,-1400
+BlitzKriegBot,KingArthur,Oasis Cross,24,7,0,4,13,0.2917,0.3167,1775,2225,-450
+BlitzKriegBot,KingArthur,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+BlitzKriegBot,KingArthur,The void,24,0,0,0,24,0.0000,0.0000,900,2400,-1500
+BlitzKriegBot,KingArthur,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+BlitzKriegBot,Lightning McQueen,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+BlitzKriegBot,Lightning McQueen,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+BlitzKriegBot,Lightning McQueen,Oasis Cross,24,4,0,14,6,0.1667,0.2542,400,900,-500
+BlitzKriegBot,Lightning McQueen,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+BlitzKriegBot,Lightning McQueen,The void,24,0,0,0,24,0.0000,0.0000,900,2400,-1500
+BlitzKriegBot,Lightning McQueen,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+BlitzKriegBot,OlivierBot,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+BlitzKriegBot,OlivierBot,Het kanaal,24,0,10,4,10,0.0000,0.2750,0,1000,-1000
+BlitzKriegBot,OlivierBot,Oasis Cross,24,0,0,24,0,0.0000,0.1500,0,0,0
+BlitzKriegBot,OlivierBot,River Bend,24,0,0,24,0,0.0000,0.1500,1200,1200,0
+BlitzKriegBot,OlivierBot,The void,24,0,0,24,0,0.0000,0.1500,1200,2100,-900
+BlitzKriegBot,OlivierBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+BlitzKriegBot,SchwarzeneggerBot,Four Corners,24,0,0,0,24,0.0000,0.0000,1800,2400,-600
+BlitzKriegBot,SchwarzeneggerBot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+BlitzKriegBot,SchwarzeneggerBot,Oasis Cross,24,0,0,5,19,0.0000,0.0313,1425,1900,-475
+BlitzKriegBot,SchwarzeneggerBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+BlitzKriegBot,SchwarzeneggerBot,The void,24,0,0,0,24,0.0000,0.0000,900,2400,-1500
+BlitzKriegBot,SchwarzeneggerBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,A Super Robot,Four Corners,24,0,0,13,11,0.0000,0.0813,0,550,-550
+BunnyBot,A Super Robot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,A Super Robot,Oasis Cross,24,0,0,0,24,0.0000,0.0000,900,2100,-1200
+BunnyBot,A Super Robot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,A Super Robot,The void,24,0,0,23,1,0.0000,0.1438,0,100,-100
+BunnyBot,A Super Robot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,BlitzKriegBot,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,BlitzKriegBot,Het kanaal,24,0,0,14,10,0.0000,0.0875,0,750,-750
+BunnyBot,BlitzKriegBot,Oasis Cross,24,0,0,12,12,0.0000,0.0750,300,1000,-700
+BunnyBot,BlitzKriegBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,BlitzKriegBot,The void,24,24,0,0,0,1.0000,1.0000,1200,1800,-600
+BunnyBot,BlitzKriegBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,KingArthur,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,KingArthur,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,KingArthur,Oasis Cross,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,KingArthur,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,KingArthur,The void,24,0,0,20,4,0.0000,0.1250,0,400,-400
+BunnyBot,KingArthur,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,Lightning McQueen,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,Lightning McQueen,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,Lightning McQueen,Oasis Cross,24,0,0,12,12,0.0000,0.0750,0,900,-900
+BunnyBot,Lightning McQueen,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,Lightning McQueen,The void,24,0,0,19,5,0.0000,0.1188,0,500,-500
+BunnyBot,Lightning McQueen,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,OlivierBot,Four Corners,24,0,0,0,24,0.0000,0.0000,0,2400,-2400
+BunnyBot,OlivierBot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,OlivierBot,Oasis Cross,24,0,0,7,17,0.0000,0.0438,0,1275,-1275
+BunnyBot,OlivierBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,OlivierBot,The void,24,0,0,24,0,0.0000,0.1500,1200,2400,-1200
+BunnyBot,OlivierBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,SchwarzeneggerBot,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,SchwarzeneggerBot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,SchwarzeneggerBot,Oasis Cross,24,0,0,12,12,0.0000,0.0750,0,900,-900
+BunnyBot,SchwarzeneggerBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+BunnyBot,SchwarzeneggerBot,The void,24,0,0,23,1,0.0000,0.1438,75,100,-25
+BunnyBot,SchwarzeneggerBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,A Super Robot,Four Corners,24,24,0,0,0,1.0000,1.0000,2400,1350,1050
+KingArthur,A Super Robot,Het kanaal,24,2,0,22,0,0.0833,0.2208,0,0,0
+KingArthur,A Super Robot,Oasis Cross,24,24,0,0,0,1.0000,1.0000,2400,0,2400
+KingArthur,A Super Robot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,A Super Robot,The void,24,5,0,19,0,0.2083,0.3271,200,375,-175
+KingArthur,A Super Robot,Twin Ridges,24,12,0,0,12,0.5000,0.5000,1800,2100,-300
+KingArthur,BlitzKriegBot,Four Corners,24,0,0,15,9,0.0000,0.0938,0,900,-900
+KingArthur,BlitzKriegBot,Het kanaal,24,15,0,9,0,0.6250,0.6813,1200,2025,-825
+KingArthur,BlitzKriegBot,Oasis Cross,24,13,0,4,7,0.5417,0.5667,2225,1775,450
+KingArthur,BlitzKriegBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,BlitzKriegBot,The void,24,24,0,0,0,1.0000,1.0000,1200,1800,-600
+KingArthur,BlitzKriegBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,BunnyBot,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,BunnyBot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,BunnyBot,Oasis Cross,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,BunnyBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,BunnyBot,The void,24,4,0,20,0,0.1667,0.2917,200,0,200
+KingArthur,BunnyBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,Lightning McQueen,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,Lightning McQueen,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,400,-400
+KingArthur,Lightning McQueen,Oasis Cross,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,Lightning McQueen,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,Lightning McQueen,The void,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,Lightning McQueen,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,OlivierBot,Four Corners,24,0,0,11,13,0.0000,0.0688,0,975,-975
+KingArthur,OlivierBot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,OlivierBot,Oasis Cross,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,OlivierBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,OlivierBot,The void,24,0,0,24,0,0.0000,0.1500,1200,2400,-1200
+KingArthur,OlivierBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,SchwarzeneggerBot,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,SchwarzeneggerBot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,SchwarzeneggerBot,Oasis Cross,24,0,0,12,12,0.0000,0.0750,600,1200,-600
+KingArthur,SchwarzeneggerBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,SchwarzeneggerBot,The void,24,0,0,24,0,0.0000,0.1500,0,0,0
+KingArthur,SchwarzeneggerBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,A Super Robot,Four Corners,24,0,0,17,7,0.0000,0.1063,525,700,-175
+Lightning McQueen,A Super Robot,Het kanaal,24,5,0,19,0,0.2083,0.3271,500,0,500
+Lightning McQueen,A Super Robot,Oasis Cross,24,23,0,0,1,0.9583,0.9583,2375,325,2050
+Lightning McQueen,A Super Robot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,A Super Robot,The void,24,3,0,21,0,0.1250,0.2563,200,225,-25
+Lightning McQueen,A Super Robot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,BlitzKriegBot,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,BlitzKriegBot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,BlitzKriegBot,Oasis Cross,24,6,0,14,4,0.2500,0.3375,900,400,500
+Lightning McQueen,BlitzKriegBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,BlitzKriegBot,The void,24,24,0,0,0,1.0000,1.0000,1200,1800,-600
+Lightning McQueen,BlitzKriegBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,BunnyBot,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,BunnyBot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,BunnyBot,Oasis Cross,24,0,12,12,0,0.0000,0.3750,900,0,900
+Lightning McQueen,BunnyBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,BunnyBot,The void,24,5,0,19,0,0.2083,0.3271,300,0,300
+Lightning McQueen,BunnyBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,KingArthur,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,KingArthur,Het kanaal,24,0,0,24,0,0.0000,0.1500,400,400,0
+Lightning McQueen,KingArthur,Oasis Cross,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,KingArthur,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,KingArthur,The void,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,KingArthur,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,OlivierBot,Four Corners,24,0,0,0,24,0.0000,0.0000,0,2400,-2400
+Lightning McQueen,OlivierBot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,OlivierBot,Oasis Cross,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,OlivierBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,OlivierBot,The void,24,0,0,24,0,0.0000,0.1500,1200,2400,-1200
+Lightning McQueen,OlivierBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,SchwarzeneggerBot,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,SchwarzeneggerBot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,SchwarzeneggerBot,Oasis Cross,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,SchwarzeneggerBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,SchwarzeneggerBot,The void,24,0,0,24,0,0.0000,0.1500,0,0,0
+Lightning McQueen,SchwarzeneggerBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,A Super Robot,Four Corners,24,24,0,0,0,1.0000,1.0000,2400,0,2400
+OlivierBot,A Super Robot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,A Super Robot,Oasis Cross,24,0,0,22,2,0.0000,0.1375,150,200,-50
+OlivierBot,A Super Robot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,A Super Robot,The void,24,0,0,24,0,0.0000,0.1500,1200,2400,-1200
+OlivierBot,A Super Robot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,BlitzKriegBot,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,BlitzKriegBot,Het kanaal,24,10,0,4,10,0.4167,0.4417,0,900,-900
+OlivierBot,BlitzKriegBot,Oasis Cross,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,BlitzKriegBot,River Bend,24,0,0,24,0,0.0000,0.1500,1200,1200,0
+OlivierBot,BlitzKriegBot,The void,24,0,0,24,0,0.0000,0.1500,1200,2100,-900
+OlivierBot,BlitzKriegBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,BunnyBot,Four Corners,24,24,0,0,0,1.0000,1.0000,2400,0,2400
+OlivierBot,BunnyBot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,BunnyBot,Oasis Cross,24,0,17,7,0,0.0000,0.4688,1275,0,1275
+OlivierBot,BunnyBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,BunnyBot,The void,24,0,0,24,0,0.0000,0.1500,1200,2400,-1200
+OlivierBot,BunnyBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,KingArthur,Four Corners,24,0,13,11,0,0.0000,0.3938,975,0,975
+OlivierBot,KingArthur,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,KingArthur,Oasis Cross,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,KingArthur,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,KingArthur,The void,24,0,0,24,0,0.0000,0.1500,1200,2400,-1200
+OlivierBot,KingArthur,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,Lightning McQueen,Four Corners,24,24,0,0,0,1.0000,1.0000,2400,0,2400
+OlivierBot,Lightning McQueen,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,Lightning McQueen,Oasis Cross,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,Lightning McQueen,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,Lightning McQueen,The void,24,0,0,24,0,0.0000,0.1500,1200,2400,-1200
+OlivierBot,Lightning McQueen,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,SchwarzeneggerBot,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,SchwarzeneggerBot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,SchwarzeneggerBot,Oasis Cross,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,SchwarzeneggerBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+OlivierBot,SchwarzeneggerBot,The void,24,0,0,24,0,0.0000,0.1500,1200,2400,-1200
+OlivierBot,SchwarzeneggerBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,A Super Robot,Four Corners,24,23,0,1,0,0.9583,0.9646,2300,1725,575
+SchwarzeneggerBot,A Super Robot,Het kanaal,24,24,0,0,0,1.0000,1.0000,1200,1800,-600
+SchwarzeneggerBot,A Super Robot,Oasis Cross,24,24,0,0,0,1.0000,1.0000,2400,1800,600
+SchwarzeneggerBot,A Super Robot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,A Super Robot,The void,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,A Super Robot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,BlitzKriegBot,Four Corners,24,24,0,0,0,1.0000,1.0000,2400,1800,600
+SchwarzeneggerBot,BlitzKriegBot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,BlitzKriegBot,Oasis Cross,24,19,0,5,0,0.7917,0.8229,1900,1425,475
+SchwarzeneggerBot,BlitzKriegBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,BlitzKriegBot,The void,24,24,0,0,0,1.0000,1.0000,1200,1800,-600
+SchwarzeneggerBot,BlitzKriegBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,BunnyBot,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,BunnyBot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,BunnyBot,Oasis Cross,24,0,12,12,0,0.0000,0.3750,900,0,900
+SchwarzeneggerBot,BunnyBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,BunnyBot,The void,24,1,0,23,0,0.0417,0.1854,100,75,25
+SchwarzeneggerBot,BunnyBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,KingArthur,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,KingArthur,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,KingArthur,Oasis Cross,24,12,0,12,0,0.5000,0.5750,1200,600,600
+SchwarzeneggerBot,KingArthur,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,KingArthur,The void,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,KingArthur,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,Lightning McQueen,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,Lightning McQueen,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,Lightning McQueen,Oasis Cross,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,Lightning McQueen,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,Lightning McQueen,The void,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,Lightning McQueen,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,OlivierBot,Four Corners,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,OlivierBot,Het kanaal,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,OlivierBot,Oasis Cross,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,OlivierBot,River Bend,24,0,0,24,0,0.0000,0.1500,0,0,0
+SchwarzeneggerBot,OlivierBot,The void,24,0,0,24,0,0.0000,0.1500,1200,2400,-1200
+SchwarzeneggerBot,OlivierBot,Twin Ridges,24,0,0,24,0,0.0000,0.1500,0,0,0
