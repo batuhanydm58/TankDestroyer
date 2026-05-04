@@ -5,7 +5,7 @@ using TankDestroyer.API;
 
 namespace KingArthur.Bot;
 
-[Bot("KingArthur", "Batuhan", "#00FF44")]
+[Bot("KingArthur", "Batuhan", "#eff317")]
 public class KingArthurBot : IPlayerBot
 {
     private static readonly Direction[] Moves =
